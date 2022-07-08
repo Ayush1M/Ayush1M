@@ -1,4 +1,4 @@
-## I am a Frontend Developer
+### I am a Frontend Developer
 
 - 👋 Hi, I’m @Ayush1M
 - 👀 I’m interested in Frontend Development and UI/UX design.
