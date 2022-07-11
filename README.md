@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Ayush
 - 👀 I’m interested in Frontend Development and UI/UX design.
-- 🌱 I’m currently learning Javascript, React and UI design.
+- 🌱 I’m currently working in Javascript, React and UI design.
 
 
 ## Language and Tools
