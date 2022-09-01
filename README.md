@@ -5,7 +5,7 @@
 - 👋 Hi, I’m Ayush
 - 👀 My area of Interest is in Frontend Development and UI design.
 - 💻 I’m currently working in Javascript and React.
-- 🌐 You can check my Portfolio here ___________
+- 🌐 You can check my Portfolio [here](https://ayush1m.github.io/Ayush-Portfolio).
 
 ## Language and Tools
 
