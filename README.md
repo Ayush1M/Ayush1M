@@ -17,3 +17,6 @@ src="https://camo.githubusercontent.com/8d7e6cb87b7ad6097ae3f2c7525397f86873951a
 * Scrimba - [Frontend Developer Career Path](https://scrimba.com/certificate/u7ErrVsz/gfrontend)
 * Scrimba - [Advanced React](https://scrimba.com/certificate/u7ErrVsz/greact)
 * Scrimba - [JavaScript Deep Dive](https://scrimba.com/certificate/u7ErrVsz/gjavascript)
+* Scrimba - [Learn UI Design](https://scrimba.com/certificate/u7ErrVsz/gdesignbootcamp)
+* Scrimba - [Learn Responsive Web Design](https://scrimba.com/certificate/u7ErrVsz/gresponsive)
+
