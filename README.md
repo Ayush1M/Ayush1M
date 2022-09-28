@@ -19,4 +19,4 @@ src="https://camo.githubusercontent.com/8d7e6cb87b7ad6097ae3f2c7525397f86873951a
 * Scrimba - [JavaScript Deep Dive](https://scrimba.com/certificate/u7ErrVsz/gjavascript)
 * Scrimba - [Learn UI Design](https://scrimba.com/certificate/u7ErrVsz/gdesignbootcamp)
 * Scrimba - [Learn Responsive Web Design](https://scrimba.com/certificate/u7ErrVsz/gresponsive)
-
+* Freecode Camp - [Responsive Web Design](https://www.freecodecamp.org/certification/fcc8127a321-b7ba-41dd-bda4-6cfbf3e5ac78/responsive-web-design)
