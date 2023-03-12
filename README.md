@@ -2,9 +2,9 @@
 
 <img align="right" width= "380" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-- <h4> 👋 Hello, I’m Ayush</h4>
-- <h4> 👀 My area of Interest is in Frontend Development and UI design.</h4>
-- <h4> 💻 I’m currently working in Javascript, React and Tailwind CSS.</h4>
+-  👋 Hello, I’m Ayush
+-  👀 My area of Interest is in Frontend Development and UI design.
+-  💻 I’m currently working in Javascript, React and Tailwind CSS.
 -  🌐 You can check my Work [here](https://ayush1m.github.io/Ayush-Portfolio). 
 
 ## Language and Tools
