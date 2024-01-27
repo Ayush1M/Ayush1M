@@ -3,6 +3,7 @@
 -  👋 Hello, I’m Ayush
 -  👀 My area of Interest is in Frontend Development and UI design.
 -  💻 I’m currently working in Javascript, React, and Tailwind CSS.
+-  💻 I'm currently learning Typescript.
 -  🌐 You can check my work [here](https://ayushm-portfolio.netlify.app/) 
 
 ## Language and Tools
