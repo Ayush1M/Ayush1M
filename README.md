@@ -1,4 +1,4 @@
-<img align="right" height="240px" src="giphy.webp" />
+<img align="right" height="200px" src="giphy.webp" />
 
 ### I am a Frontend Developer 
 
